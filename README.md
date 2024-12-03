@@ -200,3 +200,11 @@ Proses:
 
 -Menampilkan pesan kesalahan jika pilihan tidak valid.
 
+## Flowchart penggunaan program
+
+![foto]()
+
+## Hasil code program
+
+![foto]()
+
