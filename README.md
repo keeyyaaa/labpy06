@@ -202,9 +202,10 @@ Proses:
 
 ## Flowchart penggunaan program
 
-![foto]()
+![foto](https://github.com/keeyyaaa/labpy06/blob/4b766e93c50374444586727aa5aa4b4048ac7dd1/labpy%2006%20fc.png)
 
 ## Hasil code program
 
 ![foto]()
 
+![foto]()
