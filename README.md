@@ -208,4 +208,4 @@ Proses:
 
 ![foto](https://github.com/keeyyaaa/labpy06/blob/d8a0b96f086203096745da5832a5aaf214b2679c/code%20labpy06.png)
 
-![foto]()
+![foto](https://github.com/keeyyaaa/labpy06/blob/a54402a77945b88797443cee7b4e02699987fc43/code%20labpy%2006.png)
