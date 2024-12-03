@@ -206,6 +206,6 @@ Proses:
 
 ## Hasil code program
 
-![foto]()
+![foto](https://github.com/keeyyaaa/labpy06/blob/d8a0b96f086203096745da5832a5aaf214b2679c/code%20labpy06.png)
 
 ![foto]()
